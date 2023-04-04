@@ -2,6 +2,12 @@
 
 This repository contains a gRPC service built during the Full Cycle course.
 
+## Tecnologies
+
+- go  
+- grpc  
+- sqlite3
+
 ## How to run
 
 To run the service, execute the following command in the terminal:
