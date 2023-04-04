@@ -13,6 +13,7 @@ This repository contains a gRPC service built during the Full Cycle course.
 To run the service, execute the following command in the terminal:
 
 ```bash
+go mod tidy
 go run cmd/grpcServer/main.go
 ```
 
